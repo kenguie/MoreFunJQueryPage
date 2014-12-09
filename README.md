@@ -8,3 +8,5 @@ Who gets destroyed :)
 Have fun playing with this page. 
 
 Thanks!
+
+http://nyhunter77.github.io/MoreFunJQueryPage.
