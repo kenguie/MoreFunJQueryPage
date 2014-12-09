@@ -1,0 +1,38 @@
+* {
+   
+}
+
+body {
+    height: 2000px;
+}
+
+.clockContainer {
+    height: 400px;
+    width: 600px;
+    margin: 0 auto;
+    border: 2px solid orange;
+    border-radius: 100%;
+    background-color: rgb(109, 109, 109);
+}
+
+#clock {
+    font-size: 3em;
+    text-align: center;
+    vertical-align: middle;
+    height: 400px;
+    width: 600px;
+    color: rgb(42,156,152);
+    display: table-cell;
+}
+
+.animate {
+    width:800px;
+    height:500px;
+    margin: 0 auto;
+    /*border: dotted 1px orange;*/
+}
+
+.animate .inner img {
+    height: 200px;
+    float: right;
+}
